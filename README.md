@@ -1,2 +1,2 @@
 # Operating-System-Course
-![contents](./OSHW1_Report.)
+![contents](./https://github.com/SignificantLife/Operating-System-Course/blob/main/OSHW1_Report.pdf)
